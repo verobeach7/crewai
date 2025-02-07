@@ -1,0 +1,2 @@
+The technical analysis report indicates potential entry points at $374 and $414, key resistance levels at $430 and $414, and a bearish flag pattern suggesting further downward movement. Support levels are essential for possible reversals, with recommended price targets of $450 (bull case) and $350 (bear case).
+```

@@ -12,7 +12,7 @@ Advanced Micro Devices (AMD) is a multinational semiconductor company specializi
 
 **3. Balance Sheet Overview:**
 - **Total Assets:** As of December 31, 2023, total assets were reported at $67.89 billion, a slight increase from $67.58 billion in 2022.
-- **Total Liabilities:** Total liabilities were $11.99 billion, offering a debt to equity ratio of approximately 0.21, highlighting relatively low leverage.
+- **Total Liabilities:** Total liabilities were $11.99 billion, offering a debt-to-equity ratio of approximately 0.21, highlighting relatively low leverage.
 - **Stockholders' Equity:** AMD reported stockholders' equity at $55.89 billion, indicating strong economic footing and capacity to finance operations through equity.
 - **Working Capital:** Current assets totaled $16.77 billion against current liabilities of $6.69 billion, demonstrating a strong liquidity position with a current ratio of approximately 2.5.
 
@@ -22,7 +22,7 @@ Recent insider transactions point to several significant stock sales by top exec
 - A significant concentration of sales from high-level executives suggests that insiders may be capitalizing on previous stock highs.
 
 **5. Key Financial Ratios:**
-- **P/E Ratio:** With a current market price around $115.95 andEPS of 0.53, the P/E ratio stands at approximately 218.68, indicating that the stock may be overvalued compared to historical norms.
+- **P/E Ratio:** With a current market price around $115.95 and EPS of 0.53, the P/E ratio stands at approximately 218.68, indicating that the stock may be overvalued compared to historical norms.
 - **Current Ratio:** 2.5, which is favorable, suggesting the company can cover its short-term liabilities comfortably.
 - **Debt-Equity Ratio:** 0.21, reflecting a conservative approach to leveraging.
 
